@@ -1,0 +1,9 @@
+educ_homepage:
+    path:     /
+    defaults: { _controller: EducBundle:Default:index }
+educ_page1:
+    path:     /page1
+    defaults: { _controller: EducBundle:Default:page }
+layout:
+     path:     /layout
+     defaults: { _controller: EducBundle:Default:layout }

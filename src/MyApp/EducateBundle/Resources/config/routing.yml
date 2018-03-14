@@ -1,0 +1,3 @@
+educate_homepage:
+    path:     /
+    defaults: { _controller: EducateBundle:Default:index }
